@@ -304,7 +304,7 @@ Navigation
   width: 35px;
   height: 3px;
   border-radius: 1px;
-  background: #fff;
+  background: #000;
   cursor: pointer; }
 
 .nav-toggle span:before {
